@@ -9,4 +9,4 @@ def home():
     return render_template('W3.CSS Template.html')
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
